@@ -2,7 +2,7 @@
 計算機參考手機裡的計算機，因為是想練習javascript所以開始嘗試寫一些小工具當練習，計算機功能待增加
 
 > # 預覽畫面
-![alt text](image.png)
+![alt text](./assets/calculator-demo.png)
 
 > # 計算機設計方式
 
